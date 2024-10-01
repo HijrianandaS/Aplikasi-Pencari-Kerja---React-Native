@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9471473996",
+    "project_id": "fir-idscore",
+    "storage_bucket": "fir-idscore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9471473996:android:8c6e5ad553e9a93082f7e9",
+        "android_client_info": {
+          "package_name": "com.projectworkspacetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2JMoinC5URV-iW4bqwT5B74s1YwXuS14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
